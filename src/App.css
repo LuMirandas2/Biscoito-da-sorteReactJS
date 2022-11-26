@@ -1,3 +1,6 @@
+* {
+  background-color: rgb(203, 235, 203);
+}
 .container {
   display: flex;
   flex-direction: column;
@@ -15,9 +18,9 @@
 
 button {
   padding: 15px;
-  background-color: #ff7f50;
-  color: white;
-  border-color: #a0522d;
+  background-color: #34c42f;
+  color: #130702;
+  border-color: #130702;
   border-style: dotted;
   font-size: 18px;
   font-weight: 600;
@@ -25,6 +28,6 @@ button {
 
 .textoFrase {
   font-style: italic;
-  color: #a0522d;
+  color: #34c42f;
   text-align: center;
 }
